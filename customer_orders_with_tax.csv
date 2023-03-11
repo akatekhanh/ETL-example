@@ -1,0 +1,5 @@
+customer_name,order_date,order_amount,payment_method,tax
+John Smith,2022-03-01,100.0,Credit Card,10.0
+Jane Doe,2022-03-02,150.0,PayPal,15.0
+Bob Johnson,2022-03-02,75.0,Debit Card,7.5
+Mary Lee,2022-03-03,200.0,Check,20.0
